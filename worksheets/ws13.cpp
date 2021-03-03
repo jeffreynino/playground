@@ -1,3 +1,8 @@
+// Jeffrey Nino, 5005572268, CS135 Section 1004, Worksheet 13
+// Description: writes name a number amount of times
+// Input: name and number
+// Output: the name a number of times
+
 #include <iostream>
 #include <string>
 
