@@ -1,3 +1,8 @@
+// Jeffrey Nino, 5005572268, CS135 Section 1004, Worksheet 13
+// Description: multiplication calculator
+// Input: two numbers
+// Output: result of multiplying the numbers
+
 #include <iostream>
 
 using namespace std;
