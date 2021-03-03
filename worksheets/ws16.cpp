@@ -1,3 +1,8 @@
+// Jeffrey Nino, 5005572268, CS135 Section 1004, Worksheet 13
+// Description: takes either two integers or two strings and states which is larger
+// Input: two integers or two strings
+// Output: the larger value
+
 #include <iostream>
 #include <string>
 using namespace std;
