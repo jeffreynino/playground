@@ -1,3 +1,8 @@
+// Jeffrey Nino, 5005572268, CS135 Section 1004, Worksheet 13
+// Description: takes average of infile
+// Input: infile
+// Output: average of infile
+
 #include <iostream>
 #include <fstream>
 using namespace std;
